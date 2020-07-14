@@ -1,4 +1,4 @@
-# Non-Linear-Dynamics-Supply-Demand-Application-
+# Non-Linear-Dynamics-Supply-Demand-Applications
 
 This repo contains the final report and the matlab codes used for simulating chaotic behaviour in non linear supply functions.
 The model used is the Cobweb model with adaptive expectations by Hommes 1994, Journal of Economic Behavior and Organization
